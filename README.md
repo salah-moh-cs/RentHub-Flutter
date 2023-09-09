@@ -1,6 +1,8 @@
 # Graduation_project
 
-A new Flutter project.
+A new Flutter project. 
+
+<img srs = "./assets/images/download.jpg" />
 
 ## Getting Started
 
