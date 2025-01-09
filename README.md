@@ -12,8 +12,8 @@ RentHub is a Flutter-based application designed to simplify the process of renti
 
 | Screenshot 1                                     | Screenshot 2                                     |
 |--------------------------------------------------|--------------------------------------------------|
-| ![Home Screen](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893000.png) | ![Rental Categories](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893005.png) |
-| ![Item Details](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893067.png) | ![Booking Process](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893453.png) |
+| <img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893000.png" width="300"> | <img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893005.png" width="300"> |
+| <img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893067.png" width="300"> | <img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893453.png" width="300"> |
 
 
 ## Getting Started
