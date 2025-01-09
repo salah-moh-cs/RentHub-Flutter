@@ -10,28 +10,11 @@ RentHub is a Flutter-based application designed to simplify the process of renti
 
 ## Screenshots
 
-Here are some screenshots showcasing the app's functionality and design:
+| Screenshot 1                                     | Screenshot 2                                     |
+|--------------------------------------------------|--------------------------------------------------|
+| ![Home Screen](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893000.png) | ![Rental Categories](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893005.png) |
+| ![Item Details](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893067.png) | ![Booking Process](https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893453.png) |
 
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893000.png" alt="Home Screen" width="300"/>  
-*Home Screen*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893005.png" alt="Rental Categories" width="300"/>  
-*Rental Categories*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893067.png" alt="Item Details" width="300"/>  
-*Item Details Screen*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893453.png" alt="Booking Process" width="300"/>  
-*Booking Process*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893468.png" alt="Confirmation" width="300"/>  
-*Booking Confirmation*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893592.png" alt="Profile Management" width="300"/>  
-*Profile Management*
-
-<img src="https://github.com/salah-moh-cs/RentHub-Flutter/blob/main/assets/screenshots/Screenshot_1685893732.png" alt="Settings Screen" width="300"/>  
-*Settings Screen*
 
 ## Getting Started
 
